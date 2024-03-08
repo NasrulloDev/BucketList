@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2813EE532B9B489C002CD7C6 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2813EE522B9B489C002CD7C6 /* EditView.swift */; };
+		2813EE552B9B4FA1002CD7C6 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2813EE542B9B4FA1002CD7C6 /* Result.swift */; };
 		287686AB2B9627B7002EBEBA /* BucketListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287686AA2B9627B7002EBEBA /* BucketListApp.swift */; };
 		287686AD2B9627B7002EBEBA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 287686AC2B9627B7002EBEBA /* ContentView.swift */; };
 		287686AF2B9627B9002EBEBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 287686AE2B9627B9002EBEBA /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		2813EE522B9B489C002CD7C6 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
+		2813EE542B9B4FA1002CD7C6 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
 		287686A72B9627B7002EBEBA /* BucketList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BucketList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		287686AA2B9627B7002EBEBA /* BucketListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BucketListApp.swift; sourceTree = "<group>"; };
 		287686AC2B9627B7002EBEBA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				287686AA2B9627B7002EBEBA /* BucketListApp.swift */,
 				287686AC2B9627B7002EBEBA /* ContentView.swift */,
 				2813EE522B9B489C002CD7C6 /* EditView.swift */,
+				2813EE542B9B4FA1002CD7C6 /* Result.swift */,
 				28A0FDD52B98E85300399304 /* Location.swift */,
 				287686AE2B9627B9002EBEBA /* Assets.xcassets */,
 				287686B02B9627B9002EBEBA /* Preview Content */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				287686AD2B9627B7002EBEBA /* ContentView.swift in Sources */,
+				2813EE552B9B4FA1002CD7C6 /* Result.swift in Sources */,
 				28A0FDD62B98E85300399304 /* Location.swift in Sources */,
 				2813EE532B9B489C002CD7C6 /* EditView.swift in Sources */,
 				287686AB2B9627B7002EBEBA /* BucketListApp.swift in Sources */,
